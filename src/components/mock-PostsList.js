@@ -1,7 +1,7 @@
 const mockPostsList = [
     {
         id: "fa1cda7a-9063-4a92-b920-4cfd1792ea96",
-        title: "",
+        title: "Morning",
         author: {
             id: "987hhkjhdsadkjhgyyyb",
             name: "Anna",
@@ -52,7 +52,7 @@ const mockPostsList = [
     },
     {
         id: "2fa5658e-0d33-496c-8896-51540a72183e",
-        title: "",
+        title: "ROME",
         author: {
             id: "987hhUUhdsadkjhgyyyb",
             name: "Ivan",
